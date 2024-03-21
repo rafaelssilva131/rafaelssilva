@@ -6,7 +6,7 @@ meus sonhos.
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://dio.me/users/rafinha_rafa98)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-souza-80309a239/)
-[![E-mail](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:SEUEMAIL)
+[![E-mail](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rafaelssilva131@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com)
 
 ## Habilidades
